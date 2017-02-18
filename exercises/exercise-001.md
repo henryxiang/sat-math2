@@ -163,19 +163,80 @@ the y = ?
 
 ---
 
-### Question
+### Question 13
+
+If the parameter is eliminated from the equations
+$$x = t^2 +1$$
+$$y = 2t$$
+then the relation between x and y is
 
 ----
 
-### Answer
+### Answer 13
+
+$$y^2 = 4x - 4$$
 
 ---
 
-### Question
+### Question 14
+
+Let f(x) be a polynomial function:
+$$f(x) = x^5 + ...$$
+If $$f(1) = 0$$ $$f(2) = 0$$
+then f(x) is divisible by
 
 ----
 
-### Answer
+### Answer 14
+
+$$x^2-3x+2$$
+
+>Hint: expand $$(x-1)(x-2)$$
+
+---
+
+### Question 15
+
+If
+$$x - y = 2$$
+$$y - z = 4$$
+$$x - y - z = -3$$
+then y = ?
+
+----
+
+### Answer 15
+
+9
+
+---
+
+### Question 16
+
+If
+$$z > 0, a = {z}cos\theta, b = {z}sin\theta$$
+then $$\sqrt{a^2+b^2} = ?$$
+
+----
+
+### Answer 16
+
+z
+
+>Think: what if z < 0?
+
+---
+
+### Question 17
+
+If the vertices of triangle are (u,0), (v,8) and (0,0),
+the the area of the triangle is
+
+----
+
+### Answer 17
+
+$$4\abs{u}$$
 
 ---
 
