@@ -180,9 +180,9 @@ $$y^2 = 4x - 4$$
 
 ### Question 14
 
-Let f(x) be a polynomial function:
-$$f(x) = x^5 + ...$$
-If $$f(1) = 0$$ $$f(2) = 0$$
+Let f(x) be a polynomial function: 
+$f(x) = x^5 + ...$ 
+If $f(1) = 0$ and $f(2) = 0$, 
 then f(x) is divisible by
 
 ----
